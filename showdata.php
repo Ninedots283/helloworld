@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Buzzer</title>
+  <title>Shree Laxmi Auto</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -99,7 +99,7 @@
 </head> 
 
 <body>
-
+<h3>Prototype head Check</h3>
 <?php
 $servername = "localhost";
 $username = "nisha_saudagar";
@@ -114,7 +114,7 @@ if ($conn->connect_error) {
 } 
 echo "<center><table border=1>";
 echo "<th>Id</th>";
-echo "<th>Username</th>";
+echo "<th>Prototype Check</th>";
 echo "<th>Password</th>";
 echo "<th>MobileNumber</th>";
 
@@ -133,6 +133,6 @@ echo "</table></center>";
 
 $conn->close();
 ?>
-
+<h3>Prototype Body Check</h3>
 </body>
 </html>
