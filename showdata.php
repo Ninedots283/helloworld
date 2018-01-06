@@ -99,7 +99,7 @@
 </head> 
 
 <body>
-<h3>PrototypeONe head Check</h3>
+<h3>PrototypeONe umesh Check</h3>
 <?php
 $servername = "localhost";
 $username = "nisha_saudagar";
